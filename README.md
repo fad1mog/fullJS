@@ -1,2 +1,1 @@
-# fullJS
-learning full stack JS development
+For questions: [slack.jscomplete.com](http://slack.jscomplete.com/)
